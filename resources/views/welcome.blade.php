@@ -10,9 +10,9 @@
 
 <body>
     <h1>I am Home</h1>
-    {{-- <a href="/about">About Page</a> --}}
-    <a href="{{ route('about') }}">About Page </a>
-    <a href="{{ route('user', ['id' => 1, 'slug' => 'example-slug']) }}">User Page</a>
+    {{-- for the video 14 --}}
+    {{-- <a href="{{ route('about') }}">About Page </a>
+    <a href="{{ route('user', ['id' => 1, 'slug' => 'example-slug']) }}">User Page</a> --}}
 </body>
 
 </html>
